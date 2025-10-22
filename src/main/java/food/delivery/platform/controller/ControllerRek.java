@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-public class ControllerRekvizity {
+public class ControllerRek {
     @GetMapping("/controllerRekvizity")
     public String controllerRekvizity() {
         return "I am controllerRekvizity in Spring Boot!";
