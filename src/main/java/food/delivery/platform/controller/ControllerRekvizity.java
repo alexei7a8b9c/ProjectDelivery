@@ -10,9 +10,12 @@ public class ControllerRekvizity {
     public String controllerRekvizity() {
         return "I am controllerRekvizity in Spring Boot!";
     }
+<<<<<<< HEAD
 
     @GetMapping("/controllerRekv")
     public String controllerRekv() {
         return "I am controllerRekv in Spring Boot!";
     }
+=======
+>>>>>>> 4118c860be7f3ffcffa32af376289f078861aa92
 }
