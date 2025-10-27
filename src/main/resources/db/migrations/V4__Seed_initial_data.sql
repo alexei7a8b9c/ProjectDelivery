@@ -1,4 +1,4 @@
-INSERT INTO "RESTAURANT" (name, cuisine, address) VALUES
+INSERT INTO public."RESTAURANT" (name, cuisine, address) VALUES
                                                     ('Best Bites', 'Italian', '123 Main St'),
                                                     ('Savory Corner', 'Indian', '45 Oak Ave');
 
