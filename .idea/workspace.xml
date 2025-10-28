@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2fad4cfb-0273-4fc9-8e29-7bdff1940a02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.14.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/food/delivery/platform/DemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/food/delivery/platform/controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/food/delivery/platform/repository/Repository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/food/delivery/platform/service/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/db/migrations/V1__Create_users_and_roles.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/db/migrations/V2__Create_addresses.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/db/migrations/V3__Create_tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/db/migrations/V4__Seed_initial_data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/db/migrations/V5__Сreate_orders.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/HelloController.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/db/migrations/V1__Create_users_and_roles.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/db/migrations/V2__Create_addresses.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/db/migrations/V3__Create_tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/db/migrations/V4__Seed_initial_data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/db/migrations/V5__Сreate_orders.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/2025-10-26_163310.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/food/delivery/platform/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/food/delivery/platform/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/food/delivery/platform/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/food/delivery/platform/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migrations/V1__Create_users_and_roles.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migrations/V2__Create_addresses.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migrations/V3__Create_tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migrations/V4__Seed_initial_data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migrations/V5__Сreate_orders.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/food/delivery/platform/DemoApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo5" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo5" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo5" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alexei7a8b9c&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alexei7a8b9c/ProjectDelivery.git&quot;,
+    &quot;accountId&quot;: &quot;2c00d0cd-f127-4c08-bef6-5e94525c984b&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="34OHWJMUxa5VtEOj418k8Uq7BpH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Database Script.V1__Create_users_and_roles.sql.executor": "Run",
+    "Database Script.V2__Create_addresses.sql.executor": "Run",
+    "Database Script.V3__Add_timestamps_to_user_and_address.sql.executor": "Run",
+    "Database Script.V3__Create_tables.sql.executor": "Run",
+    "Database Script.V3__create_tables.sql.executor": "Run",
+    "Database Script.V4__Seed_initial_data.sql.executor": "Run",
+    "Database Script.V5__create_orders.sql.executor": "Run",
+    "Database Script.V5__Сreate_orders.sql.executor": "Run",
+    "Gradle.Build demo5.executor": "Run",
+    "Gradle.D:/IIdea/demo5/build.gradle.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.Demo5Application (1).executor": "Run",
+    "Spring Boot.Demo5Application.executor": "Run",
+    "Spring Boot.DemoApplication.executor": "Run",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "<unknown>",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IIdea/demo_2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ],
+    "RunConfigurationTargetLRU": [
+      "99ea6dd0-1fad-4002-b888-ec952442f2ec",
+      "666077b6-8bd2-475d-b2ac-b5482c5b2b5a",
+      "c7ea726f-912b-4dc1-9982-cc8ed55ed2ff",
+      "a6fd24f5-b5f2-4a93-818f-602c0ee4c74d",
+      "f89797f6-9635-4e7f-b19d-efc853b745ef"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/": [
+      "PostgreSQL"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="V2__Create_addresses.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/db/migrations/V2__Create_addresses.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="a6fd24f5-b5f2-4a93-818f-602c0ee4c74d" />
+      <method v="2" />
+    </configuration>
+    <configuration name="V3__Create_tables.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/db/migrations/V3__Create_tables.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="a6fd24f5-b5f2-4a93-818f-602c0ee4c74d" />
+      <method v="2" />
+    </configuration>
+    <configuration name="V4__Seed_initial_data.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/db/migrations/V4__Seed_initial_data.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="a6fd24f5-b5f2-4a93-818f-602c0ee4c74d" />
+      <method v="2" />
+    </configuration>
+    <configuration name="V5__Сreate_orders.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/db/migrations/V5__Сreate_orders.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="f89797f6-9635-4e7f-b19d-efc853b745ef" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="platform.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="food.delivery.platform.DemoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="food.delivery.platform.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DemoApplication" />
+        <item itemvalue="Database Script.V5__Сreate_orders.sql" />
+        <item itemvalue="Database Script.V4__Seed_initial_data.sql" />
+        <item itemvalue="Database Script.V3__Create_tables.sql" />
+        <item itemvalue="Database Script.V2__Create_addresses.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fad4cfb-0273-4fc9-8e29-7bdff1940a02" name="Changes" comment="" />
+      <created>1761077730850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761077730850</updated>
+      <workItem from="1761077732144" duration="207000" />
+      <workItem from="1761077956792" duration="1894000" />
+      <workItem from="1761079933256" duration="1133000" />
+      <workItem from="1761159252409" duration="7034000" />
+      <workItem from="1761479561390" duration="7323000" />
+      <workItem from="1761589934936" duration="8655000" />
+      <workItem from="1761664361767" duration="960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Deleted commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
